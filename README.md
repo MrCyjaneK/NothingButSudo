@@ -6,4 +6,4 @@ apt install wget &&\
 cd /bin &&\
 wget "https://raw.githubusercontent.com/MrCyjaneK/NothingButSudo/master/sudo" &&\
 chmod +x sudo &&\
-echo "It should work";```
+echo "It should work";
